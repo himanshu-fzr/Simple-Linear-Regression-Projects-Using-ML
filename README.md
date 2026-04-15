@@ -80,8 +80,11 @@ Simple Linear Regression models the relationship between two variables by fittin
 📁 Simple-Linear-Regression
 
  ┣ 📁 datasets
+ 
  ┣ 📁 notebooks / scripts
+ 
  ┣ 📄 README.md
+ 
  ┗ 📄 requirements.txt
 
 🤝 Connect with Me
