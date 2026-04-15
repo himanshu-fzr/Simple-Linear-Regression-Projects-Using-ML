@@ -54,10 +54,13 @@ Simple Linear Regression models the relationship between two variables by fittin
 
 📊 Key Insights
 
-✔ Strong linear relationships observed across datasets
-✔ Small input variations can significantly impact outcomes
-✔ Simple models provide high interpretability and efficiency
-✔ Data visualization enhances decision-making clarity
+✔ Strong linear relationships observed across datasets.
+
+✔ Small input variations can significantly impact outcomes.
+
+✔ Simple models provide high interpretability and efficiency.
+
+✔ Data visualization enhances decision-making clarity.
 
 📈 Results
 
@@ -88,5 +91,6 @@ I’m actively seeking opportunities in Data Science / Data Analytics / Machine 
 Let’s connect, collaborate, and build impactful solutions together!
 
 ⭐ Final Thought
+
 “Simplicity is the ultimate sophistication.”
 Even the simplest models can unlock powerful insights when applied effectively.
