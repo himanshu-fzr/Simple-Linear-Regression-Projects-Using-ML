@@ -66,6 +66,7 @@ Simple Linear Regression models the relationship between two variables by fittin
 - Built a strong baseline model for future improvements
 
 🎯 Key Learnings
+
 - Solid foundation in Machine Learning fundamentals
 - Practical understanding of regression techniques
 - Ability to translate data into business insights
@@ -74,6 +75,7 @@ Simple Linear Regression models the relationship between two variables by fittin
 📂 Project Structure
 
 📁 Simple-Linear-Regression
+
  ┣ 📁 datasets
  ┣ 📁 notebooks / scripts
  ┣ 📄 README.md
