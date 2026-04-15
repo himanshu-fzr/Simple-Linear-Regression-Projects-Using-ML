@@ -1,4 +1,5 @@
 🚀 Simple Linear Regression | Real-World ML Applications
+
 <p align="center"> <b>Turning Data into Actionable Insights using Fundamental Machine Learning</b><br> <i>Exploring how simple models can solve real-world problems across domains</i> </p>
 
 📌 Overview
@@ -7,31 +8,35 @@ It highlights how even the most fundamental Machine Learning algorithm can uncov
 
 🌍 Real-World Use Cases
 📚 Student Performance Analysis
-Explores the relationship between study hours and exam scores
-Demonstrates how consistent effort impacts academic outcomes
+- Explores the relationship between study hours and exam scores
+- Demonstrates how consistent effort impacts academic outcomes
 🏠 Real Estate Price Prediction
-Analyzes how house size (area) influences property prices
-Helps understand pricing trends in the real estate market
+- Analyzes how house size (area) influences property prices
+- Helps understand pricing trends in the real estate market
 📢 Marketing Impact on Sales
-Examines the effect of advertising spend on sales revenue
-Provides insights into ROI-driven marketing strategies
+- Examines the effect of advertising spend on sales revenue
+- Provides insights into ROI-driven marketing strategies
 
 🧠 Core Concept
 Simple Linear Regression models the relationship between two variables by fitting a straight line:
 
 
-                                          y=mx+c
-y → Dependent Variable (Output)
-x → Independent Variable (Input)
-m → Slope (Impact of x on y)
-c → Intercept
+y = mx + c
 
-🛠️ Tech Stack
-Category	Tools Used
-Language	Python 🐍
-Data Handling	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-ML Library	Scikit-learn
+- y → Dependent Variable (Output)
+- x → Independent Variable (Input)
+- m → Slope (Impact of x on y)
+- c → Intercept
+
+🛠️ Tech Stack  
+
+| Category      | Tools Used          |
+| ------------- | ------------------- |
+| Language      | Python 🐍           |
+| Data Handling | Pandas, NumPy       |
+| Visualization | Matplotlib, Seaborn |
+| ML Library    | Scikit-learn        |
+
 
 ⚙️ Workflow
 1. Data Collection
@@ -48,15 +53,15 @@ ML Library	Scikit-learn
 ✔ Data visualization enhances decision-making clarity
 
 📈 Results
-Achieved reliable predictions across all datasets
-Successfully identified trends and correlations
-Built a strong baseline model for future improvements
+- Achieved reliable predictions across all datasets
+- Successfully identified trends and correlations
+- Built a strong baseline model for future improvements
 
 🎯 Key Learnings
-Solid foundation in Machine Learning fundamentals
-Practical understanding of regression techniques
-Ability to translate data into business insights
-Experience working on real-world problem statements
+- Solid foundation in Machine Learning fundamentals
+- Practical understanding of regression techniques
+- Ability to translate data into business insights
+- Experience working on real-world problem statements
 
 📂 Project Structure
 📁 Simple-Linear-Regression
@@ -64,9 +69,6 @@ Experience working on real-world problem statements
  ┣ 📁 notebooks / scripts
  ┣ 📄 README.md
  ┗ 📄 requirements.txt
-
-🔗 Project Link
-👉 https://lnkd.in/gqwve3SQ
 
 🤝 Connect with Me
 I’m actively seeking opportunities in Data Science / Data Analytics / Machine Learning roles.
